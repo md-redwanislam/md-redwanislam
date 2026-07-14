@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-redwanislam&label=Profile%20views&color=0e75b6&style=flat" alt="Md. Redwan Islam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goodboy-420" alt="Md. Redwan Islam" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-redwanislam" alt="Md. Redwan Islam" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
